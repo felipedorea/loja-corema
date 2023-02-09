@@ -1505,7 +1505,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .call-to-action-box .action-style-box {
-  background: #ffb600;
+  background: green;
   padding: 30px;
 }
 
@@ -1666,7 +1666,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .ts-service-box .ts-service-icon i {
   font-size: 36px;
   float: left;
-  color: #ffb600;
+  color: green;
 }
 
 .ts-service-box .ts-service-box-content {
@@ -1863,7 +1863,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   display: inline-block;
   margin: 20px 0 50px;
   width: 100%;
-  border-bottom: 3px solid #ffb600;
+  border-bottom: 3px solid green;
 }
 .shuffle-btn-group label {
   display: inline-block;
@@ -1879,7 +1879,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 .shuffle-btn-group label.active {
   color: #212121;
-  background: #ffb600;
+  background: green;
 }
 .shuffle-btn-group label input {
   display: none;
@@ -1921,7 +1921,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   right: 0;
   z-index: 1;
   padding: 5px 12px;
-  background: #ffb600;
+  background: green;
   color: #fff;
   opacity: 0;
   transform: perspective(1px) scale3d(0, 0, 0);
@@ -1953,10 +1953,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   color: #fff;
 }
 .shuffle-item .project-img-container .project-item-info-content .project-item-title a:hover {
-  color: #ffb600;
+  color: green;
 }
 .shuffle-item .project-img-container .project-item-info-content .project-cat {
-  background: #ffb600;
+  background: green;
   display: inline-block;
   padding: 2px 8px;
   font-weight: 700;
@@ -2088,11 +2088,11 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   transition: 0.3s;
 }
 .accordion-group .card-header .btn[aria-expanded=true] {
-  color: #ffb600;
+  color: green;
 }
 .accordion-group .card-header .btn[aria-expanded=true]::before {
   content: "\f106";
-  background-color: #ffb600;
+  background-color: green;
 }
 .accordion-group.accordion-classic .card-header .btn:before {
   display: none;
@@ -2156,7 +2156,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   left: 0;
   top: 0;
   font-weight: 700;
-  color: #ffc009;
+  color: green;
 }
 
 .testimonial-slide .slick-dots {
@@ -2181,7 +2181,7 @@ img.testimonial-thumb {
   margin: 0 0 2px;
   font-weight: 700;
   display: block;
-  color: #ffb600;
+  color: green;
 }
 
 .quote-item-footer {
@@ -2252,7 +2252,7 @@ img.testimonial-thumb {
 /* Subscribe area
 ================================================== */
 .subscribe {
-  background: #ffb600;
+  background: green;
   padding: 0;
 }
 
@@ -2273,6 +2273,7 @@ img.testimonial-thumb {
   font-size: 18px;
   margin-top: 0;
   margin-bottom: 5px;
+  color: yellow;
 }
 
 .subscribe-call-to-acton h4 {
@@ -2441,7 +2442,7 @@ img.testimonial-thumb {
 
 /*-- Copyright --*/
 .copyright {
-  background: #ffb600;
+  background: green;
   color: #111;
   padding: 25px 0;
   position: relative;
@@ -2490,9 +2491,9 @@ img.testimonial-thumb {
   width: 36px;
   height: 36px;
   line-height: 36px;
-  background: rgba(0, 0, 0, 0.9);
+  background: yellow;
   border-radius: 3px;
-  color: #ffb600;
+  color: black;
   font-weight: 700;
   font-size: 16px;
   padding: 0;
@@ -2507,7 +2508,7 @@ img.testimonial-thumb {
 }
 
 #back-to-top .btn.btn-primary:hover {
-  color: #fff;
+  color: green;
 }
 
 /* Sub Pages
