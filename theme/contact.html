@@ -58,8 +58,11 @@ FACEBOOK: https://www.facebook.com/themefisher
   <!-- Template styles-->
   <link rel="stylesheet" href="css/style.css">
     <style>
-      #emailcontato:hover{
+      #emailcontato:hover, 
+      #enderecocontato:hover, 
+      #telefonecontato:hover{
         color: white;
+        text-decoration: underline;
       }
     </style>
 </head>
@@ -211,8 +214,8 @@ FACEBOOK: https://www.facebook.com/themefisher
 
     <div class="row text-center">
       <div class="col-12">
-        <h2 class="section-title">Siga o GPS</h2>
-        <h3 class="section-sub-title">Encontre nossa loja</h3>
+        <h2 class="section-title">Localização</h2>
+        <h3 class="section-sub-title">Encontre-nos</h3>
       </div>
     </div>
     <!--/ Title row end -->
@@ -225,7 +228,9 @@ FACEBOOK: https://www.facebook.com/themefisher
           </span>
           <div class="ts-service-box-content">
             <h4>Endereço</h4>
-            <p>Rua Visconde de Ouro Preto 68-A, Ilhéus-BA</p>
+            <a id="enderecocontato" href="https://www.google.com/maps/place/Corema+Material+El%C3%A9trico+e+Hidra%C3%BAlico/@-14.7975356,-39.0373441,17z/data=!3m1!4b1!4m6!3m5!1s0x9527383cf0138ab9:0xb25637b56d582d63!8m2!3d-14.7975356!4d-39.0351554!16s%2Fg%2F1ptw040ct" target="_blank">
+              <p>Rua Visconde de Ouro Preto 68-A, Ilhéus-BA</p>
+            </a>
           </div>
         </div>
       </div><!-- Col 1 end -->
@@ -251,7 +256,7 @@ FACEBOOK: https://www.facebook.com/themefisher
           </span>
           <div class="ts-service-box-content">
             <h4>Ligue</h4>
-            <a href="tel:(73) 3231 - 4162">
+            <a id="telefonecontato" href="tel:(73) 3231 - 4162">
               <p>(73) 3231 - 4162</p>
             </a>
           </div>
@@ -262,15 +267,10 @@ FACEBOOK: https://www.facebook.com/themefisher
 
     <div class="gap-60"></div>
 
-    <div class="google-map">
-      <iframe src="https://www.google.com/maps/embed?pb=!4v1675985815686!6m8!1m7!1s1_VEEEXaX2uoWoIGtxCXCg!2m2!1d-14.79749916383372!2d-39.03511739570232!3f250.2809175686686!4f-0.5699337281399153!5f0.7820865974627469" width="1110" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
-    <div class="gap-40"></div>
-
-    
   </div><!-- Conatiner end -->
 </section><!-- Main container end -->
+
+
 
 <footer id="footer" class="footer bg-overlay">
   <div class="footer-main">
