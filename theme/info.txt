@@ -169,8 +169,19 @@ Padrao header
   <!--/ Navigation end -->
 </header>
 <!--/ Header end -->
+
+
+
+
+
+
+
+
     
 Padrao footer
+
+
+
     
     <footer id="footer" class="footer bg-overlay">
     <div class="footer-main">
@@ -179,8 +190,7 @@ Padrao footer
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
             <h3 class="widget-title">Sobre nós</h3>
             <img loading="lazy" width="200px" class="footer-logo" src="images/logo.png" alt="Corema">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-              labore et dolore magna aliqua.</p>
+            <p>Venha conhecer a Corema e descubra por que somos a escolha certa para sua construção. Não perca mais tempo, visite nossa loja e transforme seu sonho em realidade!</p>
             <div class="footer-social">
               <ul>
                 <li><a href="#" aria-label="Facebook"><i
