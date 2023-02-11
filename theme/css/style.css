@@ -1241,7 +1241,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .slide-title-box {
   font-size: 16px;
   line-height: 39px;
-  background: #ffb600;
+  background: green;
   color: #fff;
   display: inline-block;
   padding: 0 15px;
@@ -1251,8 +1251,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .slide-title {
   font-size: 30px;
   line-height: 36px;
-  font-weight: 300;
-  color: #fff;
+  font-weight: 500;
+  color: #ffff;
   margin: 20px 0 10px;
 }
 @media (max-width: 991px) {
@@ -1271,7 +1271,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 60px;
   line-height: 58px;
   margin: 20px 0;
-  color: #fff;
+  color: #ffff;
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: -1px;
