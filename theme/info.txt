@@ -1,3 +1,10 @@
+
+
+whatsapp - https://wa.me/message/2DTEY2S6CAFPJ1
+Instagram - https://www.instagram.com/coremaloja/
+Facebook - https://www.facebook.com/Loja-Corema-103447948966055/
+
+
 Padrao header
 
 <!DOCTYPE html>
@@ -57,13 +64,13 @@ Padrao header
               <div class="col-lg-4 col-md-4 top-social text-center text-md-right">
                 <ul class="list-unstyled">
                     <li>
-                      <a title="Facebook" href="#">
+                      <a title="Facebook" href="https://www.facebook.com/Loja-Corema-103447948966055/" target="_blank">
                           <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
                       </a>
-                      <a title="Whatsapp" href="#">
+                      <a title="Whatsapp" href="https://wa.me/message/2DTEY2S6CAFPJ1" target="_blank">
                           <span class="social-icon"><i class="fa-brands fa-whatsapp"></i></span>
                       </a>
-                      <a title="Instagram" href="#">
+                      <a title="Instagram" href="https://www.instagram.com/coremaloja/" target="_blank">
                           <span class="social-icon"><i class="fab fa-instagram"></i></span>
                       </a>
                     </li>
@@ -193,11 +200,11 @@ Padrao footer
             <p>Venha conhecer a Corema e descubra por que somos a escolha certa para sua construção. Não perca mais tempo, visite nossa loja e transforme seu sonho em realidade!</p>
             <div class="footer-social">
               <ul>
-                <li><a href="#" aria-label="Facebook"><i
+                <li><a href="https://www.facebook.com/Loja-Corema-103447948966055/" target="_blank" aria-label="Facebook"><i
                       class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#" aria-label="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
+                <li><a href="https://wa.me/message/2DTEY2S6CAFPJ1" target="_blank" aria-label="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
                 </li>
-                <li><a href="#" aria-label="Instagram"><i
+                <li><a href="https://www.instagram.com/coremaloja/" target="_blank" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
               </ul>
             </div><!-- Footer social end -->
