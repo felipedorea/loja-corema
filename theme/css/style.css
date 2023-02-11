@@ -1892,6 +1892,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .shuffle-item .project-img-container {
   position: relative;
   overflow: hidden;
+  margin-right: 7px;
+  margin-left: 7px;
 }
 .shuffle-item .project-img-container img {
   transform: perspective(1px) scale3d(1.1, 1.1, 1);
